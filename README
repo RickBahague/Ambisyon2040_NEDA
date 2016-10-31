@@ -1,1 +1,81 @@
-Data taken from http://2040.neda.gov.ph/ltv-files/ on 30 October 2016, 5.41AM
+Data taken from http://2040.neda.gov.ph/ltv-files/ on 30 October 2016, 5.41AM using the following wget commands
+wget -r -l1 -H -t1 -nd -N -np -A.xlsx -i http://2040.neda.gov.ph/ltv-files/
+wget -r -l1 -H -t1 -nd -Nc -np -A.xls -i http://2040.neda.gov.ph/ltv-files/
+
+All Files:
+Importance of Peace and Sec for National Development
+Importance of Peace and Sec for Personal Prosperity
+Agreement on Statements on Justice – Agree
+Agreement on Statements on Justice – Disagree
+Fear of Insurgencies
+Important Gov Services for Better Future: Rank 1
+Agreement on Statements on Governance – Agree
+Agreement on Statements on Governance – Disagree
+Fairness of Treatment from Gov Agencies – Fair
+Fairness of Treatment from Gov Agencies – Unfair
+Agreement on Statements on Corruption in Local Offices – NONE
+Agreement on Statements on Corruption in Local Offices – FEW
+Agreement on Statements on Corruption in Local Offices – A LOT
+Agreement on Statements on Corruption in Local Offices – ALL
+Agreement on Statements on Corruption in National Offices – NONE
+Agreement on Statements on Corruption in National Offices – FEW
+Agreement on Statements on Corruption in National Offices – A LOT
+Agreement on Statements on Corruption in National Offices – ALL
+Confidence on Ability to Buy a House
+Preferred Dwelling type
+Preferred Community to Live in
+Source of Financing in Buying a House
+Whether Owns House Currently Live in
+Whether can have Savings for the family
+Absence of Constraints in different aspects of life – Savings (Confident)
+Incidence of Saving in the Past Year
+Current Savings
+Ability to Recover from Unexpected Expenses
+Current Constraints to Saving Money: BIG HINDRANCE
+Current Constraints to Saving Money: SMALL HINDRANCE
+Current Constraints to Saving Money: NOT HINDRANCE
+Agreement on Statements on Employment – Agree
+Agreement on Statements on Employment – Disagree
+Desired Occupation
+Preferred Type of Occupation —- Scale
+Preferred Type of Occupation —- Scale
+Preferred Type of Occupation —- Scale
+Preferred Work Location
+Support Upon Retirement
+Agreement on Statements on Employment – Agree
+Agreement on Statements on Employment – Disagree
+Presence of Opportunities for Employment or Business
+Whether Worried on Having Job or Source of Income
+Whether Have Job Security
+Whether Have Plan to Have a Business
+Importance of Education for Children
+Outlook for Children: They will finish their studies
+Current level of education/S5. Educational Attainment
+Level of education currently in
+Educational Attainment
+Confidence on Ability to Send Children to School – Confident
+Confidence on Ability to Send Children to School – Not Confident
+Constraints to Education: BIG HINDRANCE
+Constraints to Education: SMALL HINDRANCE
+Constraints to Education: NOT HINDRANCE
+Satisfaction on Schools in Community: SATISFIED
+Satisfaction on Schools in Community: DISSATISFIED
+Confidence Family Good Health
+Ability to Pay for Medical Expenses
+Whether Have Access to Hospital
+Whether Worried About Hospital Bills
+Satisfaction on Health Offices in the Community: SATISFIED
+Satisfaction on Health Offices in the Community: NOT SATISFIED
+Desired Life Status
+Confidence in Achieving Desired Life Status
+Ideas of Life Status – Dwelling / House
+Ideas of Life Status – Finances
+Ideas of Life Status – Vehicle / Transportation
+Ideas of Life Status – Education of children
+Ideas of Life Status – Occupation
+Ideas of Life Status – Vacation
+Important Economic Attainment: Rank 1
+Current Life Status
+Perceived Income Level – Scale
+Confidence Achieving Personal Aspirations
+Confidence that Filipinos Will Have High Standard of Living
