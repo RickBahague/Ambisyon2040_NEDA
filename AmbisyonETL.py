@@ -1,5 +1,16 @@
-#Ambisyon2040 Survey Data Set XLSX/XLS to CSV parser
-#rick (at) cp-union (dot) com
+#!/usr/bin/env python
+
+"""
+__author__ = "Rick Bahague"
+__copyright__ = "Copyright 2016, Computer Professionals' Union"
+__credits__ = []
+__license__ = "GPL"
+__version__ = "3"
+__maintainer__ = "Rick Bahague"
+__email__ = "rick@cp-union.com"
+__status__ = "Prototype"
+
+"""
 
 import pandas as pd
 import openpyxl
