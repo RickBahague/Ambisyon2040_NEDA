@@ -79,3 +79,18 @@ Current Life Status
 Perceived Income Level – Scale
 Confidence Achieving Personal Aspirations
 Confidence that Filipinos Will Have High Standard of Living
+
+Consolidated CSV:
+data/consolidated/Ambisyon2040SurveyDataConsolidatedB.csv
+
+Known Issues:
+The following files are excluded due to errors:
+{'.DS_Store': xlrd.biffh.XLRDError("Unsupported format, or corrupt file: Expected BOF record; found b'\\x00\\x00\\x00\\x01Bud1'"),
+ 'Confidence-that-Filipinos-Will-Have-High-Standard-of-Living.xlsx': ValueError('Plan shapes are not aligned'),
+ 'Importance-of-Peace-and-Sec-for-Personal-Prosperity.xlsx': ValueError('Plan shapes are not aligned'),
+ 'Preferred-Community-to-Live-in.xlsx': ValueError('Plan shapes are not aligned'),
+ 'Preferred-Dwelling-type.xlsx': ValueError('Plan shapes are not aligned'),
+ 'Preferred-Work-Location.xlsx': ValueError('Plan shapes are not aligned'),
+ 'Source-of-Financing-in-Buying-a-House.xlsx': ValueError('Plan shapes are not aligned'),
+ 'current-level-of-educationS5-educational-attainment.xlsx': zipfile.BadZipFile('File is not a zip file')}
+
