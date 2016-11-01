@@ -1,0 +1,20 @@
+Response|Total|ABC (NET)|AB|C1|C2|D|E|15-19|20-29|30-39|40-50|Male|Female|Working|Not Working|Student|Urban|Rural|question
+||SEC||||||AGE||||GENDER||WORK STATUS|||LOCALE||45. Whether Worried About Hospital Bills
+|Total|ABC (NET)|AB|C1|C2|D|E|15-19|20-29|30-39|40-50|Male|Female|Working|Not Working|Student|Urban|Rural|45. Whether Worried About Hospital Bills
+BASE- Total inteviews:|||||||||||||||||||45. Whether Worried About Hospital Bills
+Unweighted |10000.0|2280.0|60.0|493.0|1727.0|4784.0|2936.0|1511.0|3057.0|2967.0|2465.0|5002.0|4998.0|4927.0|4058.0|1015.0|4620.0|5380.0|45. Whether Worried About Hospital Bills
+Weighted|10000.0|2260.0|60.0|482.0|1717.0|4820.0|2921.0|1978.0|3211.0|2594.0|2217.0|5032.0|4968.0|4653.0|4042.0|1305.0|4569.0|5431.0|45. Whether Worried About Hospital Bills
+|||||||||||||||||||45. Whether Worried About Hospital Bills
+|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|45. Whether Worried About Hospital Bills
+|||||||||||||||||||45. Whether Worried About Hospital Bills
+WORRY|15.0|22.6|39.5|31.5|19.6|13.9|10.8|15.6|15.3|14.7|14.3|15.2|14.7|15.4|14.4|15.0|18.5|12.0|45. Whether Worried About Hospital Bills
+Definitely will worry (1.00)|58.5|48.7|34.6|39.0|52.0|59.7|64.2|56.9|57.9|58.8|60.5|57.2|59.8|58.0|59.5|57.2|52.6|63.5|45. Whether Worried About Hospital Bills
+Will worry (2.00)|26.4|28.5|25.9|29.3|28.4|26.1|25.0|27.4|26.5|26.4|25.2|27.5|25.2|26.4|25.8|27.8|28.7|24.4|45. Whether Worried About Hospital Bills
+|||||||||||||||||||45. Whether Worried About Hospital Bills
+WON'T WORRY|84.9|77.3|60.5|68.3|80.4|85.8|89.2|84.4|84.4|85.1|85.7|84.7|85.1|84.4|85.3|85.0|81.3|87.9|45. Whether Worried About Hospital Bills
+Will worry a little (3.00)|13.4|19.7|29.2|27.5|17.2|12.6|9.8|13.8|13.9|13.3|12.6|13.6|13.2|13.7|13.1|13.3|16.6|10.8|45. Whether Worried About Hospital Bills
+Will not worry (4.00)|1.6|2.9|10.3|4.0|2.4|1.3|0.9|1.8|1.4|1.4|1.7|1.6|1.5|1.7|1.3|1.7|1.9|1.2|45. Whether Worried About Hospital Bills
+|||||||||||||||||||45. Whether Worried About Hospital Bills
+REFUSED|*|*|-|*|-|*|-|-|*|*|-|*|*|*|*|-|*|*|45. Whether Worried About Hospital Bills
+|||||||||||||||||||45. Whether Worried About Hospital Bills
+DON’T KNOW|-|-|-|-|-|-|-|-|-|*|-|-|-|-|-|-|-|-|45. Whether Worried About Hospital Bills

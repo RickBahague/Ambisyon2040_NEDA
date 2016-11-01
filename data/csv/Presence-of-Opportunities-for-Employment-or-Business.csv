@@ -1,0 +1,15 @@
+Response|TOTAL|ABC (NET)|AB|C1|C2|D|E|15-19|20-29|30-39|40-50|Male|Female|Working|Not Working|Student|Urban|Rural|question
+||SEC||||||AGE||||GENDER||WORK STATUS|||LOCALE||52. Presence of Opportunities for Employment or Business
+|TOTAL|ABC (NET)|AB|C1|C2|D|E|15-19|20-29|30-39|40-50|Male|Female|Working|Not Working|Student|Urban|Rural|52. Presence of Opportunities for Employment or Business
+BASE - Total interviews:|||||||||||||||||||52. Presence of Opportunities for Employment or Business
+Unweighted|10000.0|2280.0|60.0|493.0|1727.0|4784.0|2936.0|1511.0|3057.0|2967.0|2465.0|5002.0|4998.0|4927.0|4058.0|1015.0|4620.0|5380.0|52. Presence of Opportunities for Employment or Business
+Weighted|10000.0|2260.0|60.0|482.0|1717.0|4820.0|2921.0|1978.0|3211.0|2594.0|2217.0|5032.0|4968.0|4653.0|4042.0|1305.0|4569.0|5431.0|52. Presence of Opportunities for Employment or Business
+|||||||||||||||||||52. Presence of Opportunities for Employment or Business
+|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|52. Presence of Opportunities for Employment or Business
+|||||||||||||||||||52. Presence of Opportunities for Employment or Business
+No opportunity|3.3|1.6|3.1|1.1|1.7|2.8|5.3|2.7|2.9|3.3|4.1|3.4|3.1|3.1|3.6|2.6|2.9|3.6|52. Presence of Opportunities for Employment or Business
+Few opportunities|29.8|23.6|6.5|21.9|24.6|29.6|34.9|26.2|29.2|31.7|31.7|31.2|28.3|30.8|30.0|25.4|29.9|29.7|52. Presence of Opportunities for Employment or Business
+Moderate opportunities|49.1|51.3|57.8|54.9|50.1|50.2|45.6|50.0|49.6|48.5|48.3|48.2|50.1|49.2|48.7|50.0|49.4|48.8|52. Presence of Opportunities for Employment or Business
+Many opportunities|17.3|23.0|32.6|21.8|23.0|16.7|13.8|19.8|17.7|16.3|15.6|16.7|17.9|16.6|17.0|20.9|17.1|17.5|52. Presence of Opportunities for Employment or Business
+Refused (vol.)|*|*|-|-|*|*|*|*|*|*|*|*|*|*|*|*|*|*|52. Presence of Opportunities for Employment or Business
+Don't Know (vol.)|*|*|-|*|*|*|*|1.0|*|*|*|*|*|-|0.5|0.9|*|*|52. Presence of Opportunities for Employment or Business

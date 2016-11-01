@@ -1,0 +1,8 @@
+Response|Total|ABC (NET)|AB|C1|C2|D|E|15-19|20-29|30-39|40-50|Male|Female|Working|Not Working|Student|Urban|Rural|question
+Unweighted |10000|2280|60|493|1727|4784|2936|1511|3057|2967|2465|5002|4998|4927|4058|1015|4620|5380|8. Whether can have Savings for the family
+Weighted|10000|2260|60|482|1717|4820|2921|1978|3211|2594|2217|5032|4968|4653|4042|1305|4569|5431|8. Whether can have Savings for the family
+|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|8. Whether can have Savings for the family
+Yes|82.8|90|93.1|93|89|84.5|74.4|89.6|85.9|80.2|75.3|83|82.6|81.7|80.9|92.4|84.9|81|8. Whether can have Savings for the family
+No|13.3|5.8|5.1|4.2|6.3|12.1|21.1|7.5|10.7|15.5|19.7|13.2|13.4|14.3|14.7|5.6|11|15.3|8. Whether can have Savings for the family
+REFUSED|*|-|-|-|*|*|*|-|-|*|*|*|-|*|-|-|-|*|8. Whether can have Savings for the family
+DON’T KNOW|3.9|4.1|1.9|2.8|4.6|3.3|4.5|2.9|3.4|4.2|4.9|3.8|3.9|3.9|4.4|1.9|4.1|3.6|8. Whether can have Savings for the family

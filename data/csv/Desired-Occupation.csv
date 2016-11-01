@@ -1,0 +1,12 @@
+Response|Total|ABC (NET)|AB|C1|C2|D|E|15-19|20-29|30-39|40-50|Male|Female|Working|Not Working|Student|Urban|Rural|question
+Unweighted |10000|2280|60|493|1727|4784|2936|1511|3057|2967|2465|5002|4998|4927|4058|1015|4620|5380|16. Desired Occupation
+Weighted|10000|2260|60|482|1717|4820|2921|1978|3211|2594|2217|5032|4968|4653|4042|1305|4569|5431|16. Desired Occupation
+|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|16. Desired Occupation
+Employer in own family-operated farm or business|46.6|44.1|40.9|44.7|44|47.2|47.6|39.9|45.3|48.7|51.8|46.3|46.9|48.8|46.7|38.4|42.5|50|16. Desired Occupation
+Self-employed without any paid employee|22|25|31.3|27.8|24|21.2|20.8|18.7|21.8|23.1|23.7|20.6|23.3|22.8|22.2|18.3|23.1|21|16. Desired Occupation
+Work for private establishment|20.3|21.8|24.5|20.2|22.1|20.4|19.1|29.1|21.9|17.5|13.5|21.8|18.8|18.5|18.3|33.2|24.7|16.7|16. Desired Occupation
+Work for government or government corporation|19.9|21.3|25.7|20.2|21.4|19.2|19.9|27.5|20.9|17.7|14.1|20.1|19.6|17.3|19.2|30.8|19.2|20.4|16. Desired Occupation
+Work with pay in own family-operated farm or business|18.1|17.4|22.9|16.9|17.3|17.7|19.2|15.8|18.1|17.8|20.3|18.7|17.4|18.8|18.2|15.2|15.4|20.3|16. Desired Occupation
+Work for private household|13.3|15.4|26.6|16.8|14.6|12.7|12.9|12.2|14.3|13.6|12.7|12.3|14.3|12.4|15.1|11.2|15.5|11.6|16. Desired Occupation
+Refused|0.5|0.5|-|*|0.5|0.6|*|0.7|*|0.6|*|0.5|0.5|0.5|*|0.6|0.8|*|16. Desired Occupation
+Don''t know|*|*|-|-|*|*|0.7|*|*|*|0.7|*|*|0.5|*|*|*|*|16. Desired Occupation

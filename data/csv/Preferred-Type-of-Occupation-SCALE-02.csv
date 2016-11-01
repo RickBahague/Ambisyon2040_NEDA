@@ -1,0 +1,13 @@
+Response|Total|ABC (NET)|AB|C1|C2|D|E|15-19|20-29|30-39|40-50|Male|Female|Working|Not Working|Student|Urban|Rural|question
+Unweighted|10000|2280|60|493|1727|4784|2936|1511|3057|2967|2465|5002|4998|4927|4058|1015|4620|5380|17. Preferred Type of Occupation ---- SCALE
+Weighted|10000|2260|60|482|1717|4820|2921|1978|3211|2594|2217|5032|4968|4653|4042|1305|4569|5431|17. Preferred Type of Occupation ---- SCALE
+|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|%|17. Preferred Type of Occupation ---- SCALE
+1 (Work or livelihood in a big city) (1.00)|17.3|24.3|23.7|28.3|23.2|18|10.8|24.4|19.3|14.4|11.4|17.3|17.3|14.9|16.6|27.7|23.1|12.4|17. Preferred Type of Occupation ---- SCALE
+2.0|12.3|15.1|25.3|13.7|15.1|13.0|9.1|15.8|12.8|11.0|10.1|12.7|11.9|11.3|11.9|17.4|17.2|8.2|17. Preferred Type of Occupation ---- SCALE
+3.0|9.1|8.5|16.7|8.9|8.0|9.4|8.9|9.3|9.9|9.3|7.4|8.5|9.6|8.3|9.9|9.1|9.6|8.6|17. Preferred Type of Occupation ---- SCALE
+4.0|11.9|12.1|8.1|13.0|11.9|11.6|12.4|11.6|12.5|11.9|11.5|11.5|12.4|11.2|13.0|11.3|12.3|11.6|17. Preferred Type of Occupation ---- SCALE
+5.0|14.2|13.1|13.4|15.0|12.6|14.2|15.1|12.3|13.5|15.5|15.6|14.3|14.2|15.0|14.5|10.8|13.1|15.2|17. Preferred Type of Occupation ---- SCALE
+6.0|14.6|11.5|1.6|9.4|12.4|14.5|17.1|10.6|13.9|15.5|18.1|15.0|14.2|16.5|14.0|9.5|11.5|17.2|17. Preferred Type of Occupation ---- SCALE
+7 (Work or livelihood in the province) |20.4|15.3|11.1|11.8|16.4|19.2|26.5|16|18|22.3|25.9|20.6|20.3|22.7|19.9|14.1|13.1|26.6|17. Preferred Type of Occupation ---- SCALE
+REFUSED|*|*|-|-|*|*|-|*|*|*|*|*|*|*|*|-|*|*|17. Preferred Type of Occupation ---- SCALE
+DON’T KNOW|*|*|-|-|*|-|*|*|*|*|-|*|*|-|*|-|-|*|17. Preferred Type of Occupation ---- SCALE
